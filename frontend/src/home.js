@@ -217,10 +217,6 @@ export const ImageUpload = () => {
     setImage(true);
   };
 
- /*  if (data) {
-    confidence = (parseFloat(data.confidence) * 100).toFixed(2);
-  } */
-
   return (
     <React.Fragment>
       <AppBar position="static" className={classes.appbar}>
