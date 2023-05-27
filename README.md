@@ -16,17 +16,17 @@
 
 1. Home Page
 
-![Website_images](https://github.com/rid17pawar/FashionApparelClassification-webapp/blob/master/readme_images/image_1.png)
+![image_1](https://github.com/rid17pawar/FashionApparelClassification-webapp/assets/47048717/6384e5af-dd8a-4af4-8bb2-d7b5fc96e7e0)
 
 2. Drag and Drop Image Upload
 
-![Website_images](https://github.com/rid17pawar/FashionApparelClassification-webapp/blob/master/readme_images/image_1_1.png)
+![image_1_1](https://github.com/rid17pawar/FashionApparelClassification-webapp/assets/47048717/efe32819-0560-4b9b-a788-f478cfb53acb)
 
 3. Processing Image
 
-![Website_images](https://github.com/rid17pawar/FashionApparelClassification-webapp/blob/master/readme_images/image_2.png)
+![image_2](https://github.com/rid17pawar/FashionApparelClassification-webapp/assets/47048717/d9df0768-8555-4b82-90e0-7058011ded17)
 
 4. Image Classification Results
 
-![Website_images](https://github.com/rid17pawar/FashionApparelClassification-webapp/blob/master/readme_images/image_3.png)
+![image_3](https://github.com/rid17pawar/FashionApparelClassification-webapp/assets/47048717/e50e61bc-684f-45ff-a680-39536cc882e4)
 
